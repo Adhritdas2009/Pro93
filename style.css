@@ -1,0 +1,45 @@
+#login_btn{
+    width:200px;
+}
+
+#login_inp{
+    width:300px;
+}
+
+#login_div{
+    padding-top: 100px;
+    color:springgreen;
+}
+
+#logo{
+    border-radius: 100px;
+    border:springgreen 2px;
+}
+
+#add{
+    width:300px;
+}
+
+#addbtn{
+    width:200px;
+}
+
+#welcome{
+    margin:150px;
+    margin-left:400px;
+    margin-right:400px;
+    border-radius: 500px;
+}
+
+#logo2{
+    border-radius: 100px;
+    border:springgreen 2px;
+}
+
+#senddiv{
+margin-top:450px;
+}
+
+#sendinp{
+    width: 300px;
+}
